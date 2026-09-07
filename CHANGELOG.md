@@ -1,5 +1,7 @@
 # Changelog
 
+## 0.8.1 - Unreleased
+
 ## 0.8.0 - 2026-09-07
 
 **Highlights:** Opt-in HTTP context connects Node callers and Rust handlers during review.
